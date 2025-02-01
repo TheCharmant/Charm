@@ -1,10 +1,6 @@
-# Karbi
+# CHARM
 
 A personal portfolio website built with Next.js, Tailwind CSS, and TypeScript, showcasing my work and skills.
-
-<p>
-    <img src="./public/img/karbi_demo.gif"/>
-</p>
 
 ## Motivation
 
